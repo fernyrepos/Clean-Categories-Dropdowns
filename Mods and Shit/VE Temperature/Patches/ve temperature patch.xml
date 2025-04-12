@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_ACUnit"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ACUnits</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_ACUnitWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ACUnits</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Cooler"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Coolers</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_WallMountedCooler"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Coolers</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_AirDuct"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AirDucts</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_UndergroundAirDuct"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AirDucts</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Vent"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Vents</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_WallMountedVent"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Vents</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_ACCompressor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ACCompressors</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_LargeACCompressor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ACCompressors</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_WallHeater"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Heaters</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_WallMountedHeater"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Heaters</designatorDropdown>
+                    </value>
+                </Operation>
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VTE_IndustrialHeater"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Heaters</designatorDropdown>
+                    </value>
+                </Operation> -->
+</Patch>

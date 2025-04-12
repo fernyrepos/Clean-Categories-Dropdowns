@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ConveyorBelt"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ConveyorBelts</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ConveyorBelt_PassThrough"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ConveyorBelts</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+</Patch>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AA_BlueGelBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_HexagelBatteries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AA_HexaGelBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_HexagelBatteries</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+</Patch>

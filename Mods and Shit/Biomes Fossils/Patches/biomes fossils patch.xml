@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="BMT_DisplaySmall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FossilDisplays</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="BMT_DisplayMedium"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FossilDisplays</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="BMT_DisplayLarge"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FossilDisplays</designatorDropdown>
+                    </value>
+                </Operation> -->
+</Patch>
+
+
+

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/TerrainDef[defName="Bridge"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bridges</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Door"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Doors</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="PowerConduit"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Conduits</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="HiddenConduit"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Conduits</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="WaterproofConduit"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Conduits</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="TorchLamp"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Torches</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="TorchWallLamp"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Torches</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="WoodFiredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WoodGenerators</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ChemfuelPoweredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ChemfuelGenerators</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Bed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Beds</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DoubleBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Beds</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="SleepingSpot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SleepingSpots</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DoubleSleepingSpot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SleepingSpots</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Bedroll"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bedrolls</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="BedrollDouble"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bedrolls</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table1x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Tables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table2x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Tables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table2x4c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Tables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table3x3c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Tables</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+<!-- 
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Shelf"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Shelves</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ShelfSmall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Shelves</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Bookcase"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bookcases</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="BookcaseSmall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bookcases</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="PlantPot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PlantPots</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+<!-- 
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DiningChair"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Chairs</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Stool"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Chairs</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="Shelf"]/label</xpath>
+                    <value>
+                        <label>shelf (1x2)</label>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ShelfSmall"]/label</xpath>
+                    <value>
+                        <label>shelf (1x1)</label>
+                    </value>
+                </Operation>
+
+
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="Bookcase"]/label</xpath>
+                    <value>
+                        <label>bookcase (1x2)</label>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="BookcaseSmall"]/label</xpath>
+                    <value>
+                        <label>bookcase (1x1)</label>
+                    </value>
+                </Operation>
+</Patch>

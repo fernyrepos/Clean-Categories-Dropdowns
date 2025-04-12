@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="HC_SlotMachineRed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SlotMachines</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="HC_SlotMachineBlue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SlotMachines</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="HC_SlotMachineGreen"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SlotMachines</designatorDropdown>
+                    </value>
+                </Operation>
+
+</Patch>

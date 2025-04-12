@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_PlanterBox"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PlanterBoxes</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_PlanterBox_Tilable"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PlanterBoxes</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_Hydroponics_Tilable"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Hydroponics</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="HydroponicsBasin"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Hydroponics</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_Ecosystem"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ArtificialEcosystems</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_Ecosystem_Tilable"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ArtificialEcosystems</designatorDropdown>
+                    </value>
+                </Operation>
+</Patch>
+
+
+

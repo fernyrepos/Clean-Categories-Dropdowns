@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="MA_IncenseBurner"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Incense</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="MA_StandingIncenseBurner"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Incense</designatorDropdown>
+                    </value>
+                </Operation> -->
+</Patch>

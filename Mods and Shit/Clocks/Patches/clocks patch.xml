@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ZCL_GrandfatherClock"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_GrandfatherClocks</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ZCL_ModernGrandfatherClock"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_GrandfatherClocks</designatorDropdown>
+                    </value>
+                </Operation>
+
+</Patch>

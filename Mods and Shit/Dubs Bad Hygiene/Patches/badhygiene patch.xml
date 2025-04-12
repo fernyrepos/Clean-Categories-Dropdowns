@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="RadiatorStuffed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Radiators</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="RadiatorLarge"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Radiators</designatorDropdown>
+                    </value>
+                </Operation> -->
+</Patch>

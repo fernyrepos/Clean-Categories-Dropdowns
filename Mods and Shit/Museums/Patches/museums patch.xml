@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_Bench_Small"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_MuseumBenches</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_Bench_Medium"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_MuseumBenches</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_Bench_Large"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_MuseumBenches</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_PedestalCircular"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Pedestals</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_PedestalHexagonal"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Pedestals</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_PedestalRectangular"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Pedestals</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_GlassWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ObservationGlass</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Museums_ReinforcedGlassWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ObservationGlass</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+</Patch>
+
+
+

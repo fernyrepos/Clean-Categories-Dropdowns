@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ReelStorageLargeSpacerContainer"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SpacerContainers</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ReelStorageSpacerContainer"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SpacerContainers</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ReelStorageSpacerContainer"]/label</xpath>
+                    <value>
+                        <label>spacer container (1x1)</label>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ReelStorageLargeSpacerContainer"]/label</xpath>
+                    <value>
+                        <label>spacer container (1x2)</label>
+                    </value>
+                </Operation>
+
+</Patch>

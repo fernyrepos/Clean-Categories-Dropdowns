@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_StoneTable_1x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeStoneTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_StoneTable_2x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeStoneTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_StoneTable_2x4c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeStoneTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_StoneTable_3x3c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeStoneTables</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_WoodenTable_1x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeWoodTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_WoodenTable_2x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeWoodTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_WoodenTable_2x4c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeWoodTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="AM_Neolithic_WoodenTable_3x3c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CrudeWoodTables</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+</Patch>

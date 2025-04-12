@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_Wallpaper"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Walls</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+</Patch>

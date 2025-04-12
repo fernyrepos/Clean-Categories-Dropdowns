@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ASF_CoveredClayPot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ClayPots</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ASF_UncoveredClayPot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ClayPots</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+<!-- 
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasket"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WovenBaskets</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasketDouble"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WovenBaskets</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasketTriple"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WovenBaskets</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasket"]/label</xpath>
+                    <value>
+                        <label>woven basket (1x)</label>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasketDouble"]/label</xpath>
+                    <value>
+                        <label>woven basket (2x)</label>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName="ASF_WovenBasketTriple"]/label</xpath>
+                    <value>
+                        <label>woven basket (3x)</label>
+                    </value>
+                </Operation>
+</Patch>

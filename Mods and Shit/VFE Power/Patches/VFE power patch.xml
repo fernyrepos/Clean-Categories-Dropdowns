@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Battery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Batteries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_SmallBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Batteries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_LargeBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Batteries</designatorDropdown>
+                    </value>
+                </Operation>    
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_AdvancedBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AdvancedBatteries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_LargeAdvancedBattery"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AdvancedBatteries</designatorDropdown>
+                    </value>
+                </Operation>    
+
+
+
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_PortableWoodFiredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WoodGenerators</designatorDropdown>
+                    </value>
+                </Operation>    
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_IndustrialWoodFiredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_WoodGenerators</designatorDropdown>
+                    </value>
+                </Operation>    
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_PortableChemfuelPoweredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ChemfuelGenerators</designatorDropdown>
+                    </value>
+                </Operation>    
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_IndustrialChemfuelPoweredGenerator"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ChemfuelGenerators</designatorDropdown>
+                    </value>
+                </Operation>     -->
+</Patch>

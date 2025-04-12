@@ -1,0 +1,34 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="rebuild.cotr.doorsandcorners">Mods and Shit/Rebuild DAC</li>
+    <li IfModActive="VanillaExpanded.VFEArchitect">Mods and Shit/VFE Architect</li>
+    <li IfModActive="zal.animalcages">Mods and Shit/Animal Cages</li>
+    <li IfModActive="dubwise.dubsbadhygiene">Mods and Shit/Dubs Bad Hygiene</li>
+    <li IfModActive="vanillaexpanded.vfefarming">Mods and Shit/VFE Farming</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods and Shit/VFE Settlers</li>
+    <li IfModActive="sarg.alphaanimals">Mods and Shit/Alpha Animals</li>
+    <li IfModActive="scpchemfuel.appliances">Mods and Shit/Appliances Expanded</li>
+    <li IfModActive="biomesteam.biomesfossils">Mods and Shit/Biomes Fossils</li>
+    <li IfModActive="det.epochsincense">Mods and Shit/Epochs Incense</li>
+    <li IfModActive="adamas.hospitalitycasino">Mods and Shit/Hospitality Casino</li>
+    <li IfModActive="nightmare.museums">Mods and Shit/Museums</li>
+    <li IfModActive="gy.ppextend">Mods and Shit/Power Poles Extended</li>
+    <li IfModActive="vanillaexpanded.helixiengas">Mods and Shit/VE Gas</li>
+    <li IfModActive="vanillaexpanded.vfepower">Mods and Shit/VFE Power</li>
+    <li IfModActive="vanillaexpanded.vfespacer">Mods and Shit/VFE Spacer</li>
+    <li IfModActive="rhiom.conveyorbelts.1.02">Mods and Shit/Conveyor Belts</li>
+    <li IfModActive="van.dacrypts">Mods and Shit/Dark Ages CAT</li>
+    <li IfModActive="det.epochspyrinth">Mods and Shit/Epochs Pyrinth</li>
+    <li IfModActive="vanillaexpanded.vfecore">Mods and Shit/VE Furniture</li>
+    <li IfModActive="vanillaexpanded.temperature">Mods and Shit/VE Temperature</li>
+    <li IfModActive="zylle.clocks">Mods and Shit/Clocks</li>
+    <li IfModActive="sbz.neatstorage">Mods and Shit/Neat Storage</li>
+    <li IfModActive="adaptive.primitivestorage">Mods and Shit/Adaptive Primitive Storage</li>
+    <li IfModActive="vanillaexpanded.vfeart">Mods and Shit/VFE Art</li>
+    <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
+    <li IfModActive="Ludeon.Rimworld.Ideology">Mods and Shit/Ideology</li>
+  </v1.5>
+</loadFolders>

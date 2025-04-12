@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table_interactive_1x1c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_InteractiveTables</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Table_interactive_2x2c"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_InteractiveTables</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Bed_AdvBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AdvancedBeds</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Bed_AdvDoubleBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_AdvancedBeds</designatorDropdown>
+                    </value>
+                </Operation>
+
+</Patch>

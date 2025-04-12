@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DoorSaloon"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Doors</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="Post"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Columns</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="ChemlampPost"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Lampposts</designatorDropdown>
+                    </value>
+                </Operation>
+
+</Patch>

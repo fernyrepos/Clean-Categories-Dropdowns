@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_2x1CastleDoor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleDoors</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_3x1CastleDoor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleDoors</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_4x1CastleDoor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleDoors</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_2x1CastleGate"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleGates</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_3x1CastleGate"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleGates</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_4x1CastleGate"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CastleGates</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_TimberedWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Walls</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_FurBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FurBeds</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_DoubleFurBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FurBeds</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEM2_ClothWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_ClothWalls</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+</Patch>

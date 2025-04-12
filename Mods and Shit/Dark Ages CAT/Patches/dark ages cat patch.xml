@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_GrandCandelabra"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Candelabras</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_DarklightGrandCandelabra"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Candelabras</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_BloodGrandCandelabra"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Candelabras</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_SepulchralBrazier"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralBraziers</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_DarklightSepulchralBrazier"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralBraziers</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_BloodflameSepulchralBrazier"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralBraziers</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_SepulchralStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralStatues</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_DarkligtSepulchralStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralStatues</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_BloodflameSepulchralStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralStatues</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_SepulchralReliquary"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralReliquaries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_DarklightSepulchralReliquary"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralReliquaries</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_BloodflameSepulchralReliquary"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SepulchralReliquaries</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_ImpStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CryptStatues</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_GargoyleStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CryptStatues</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_DemonStatue"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CryptStatues</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="DA_HeroicMemorial"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_CryptStatues</designatorDropdown>
+                    </value>
+                </Operation>
+
+
+
+
+
+</Patch>

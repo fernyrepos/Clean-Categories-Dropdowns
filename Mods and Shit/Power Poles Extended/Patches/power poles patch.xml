@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="RF_PowerPole"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PowerPoles</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="PP_PowerPoleLamp"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PowerPoles</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="PP_MPowerPoleLamp"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PowerPoles</designatorDropdown>
+                    </value>
+                </Operation>    
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="PP_MPowerPole"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PowerPoles</designatorDropdown>
+                    </value>
+                </Operation>    
+
+</Patch>

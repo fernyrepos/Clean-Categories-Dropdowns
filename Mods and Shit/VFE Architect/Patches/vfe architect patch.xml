@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEArch_SingleDoor"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SingleDoors</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEArch_SingleDoor_Flipped"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SingleDoors</designatorDropdown>
+                    </value>
+                </Operation>
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/TerrainDef[defName="VFEArch_BridgeSandstone"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bridges</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/TerrainDef[defName="VFEArch_BridgeSandstone"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Bridges</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+
+                <!-- <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFEArch_FineWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Walls</designatorDropdown>
+                    </value>
+                </Operation> -->
+
+
+</Patch>

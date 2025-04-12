@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Clean Categories: Dropdowns</name>
+	<author>ferny</author>
+	<packageId>ferny.categoriesdropdowns</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>cedaro.material.submenu</packageId>
+			<displayName>Material Sub-Menu</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3345696149</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Condenses stuff into dropdowns.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>ferny.progressionstorage</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>OskarPotocki.VFE.Medieval2</li>
+		<li>rebuild.cotr.doorsandcorners</li>
+		<li>VanillaExpanded.VFEArchitect</li>
+		<li>zal.animalcages</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+		<li>sarg.alphaanimals</li>
+		<li>scpchemfuel.appliances</li>
+		<li>biomesteam.biomesfossils</li>
+		<li>det.epochsincense</li>
+		<li>adamas.hospitalitycasino</li>
+		<li>nightmare.museums</li>
+		<li>gy.ppextend</li>
+		<li>vanillaexpanded.helixiengas</li>
+		<li>vanillaexpanded.vfepower</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>rhiom.conveyorbelts.1.02</li>
+		<li>van.dacrypts</li>
+		<li>det.epochspyrinth</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.temperature</li>
+		<li>zylle.clocks</li>
+		<li>sbz.neatstorage</li>
+		<li>adaptive.primitivestorage</li>
+		<li>vanillaexpanded.vfeart</li>
+	</loadAfter>
+</ModMetaData>
