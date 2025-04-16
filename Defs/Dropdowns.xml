@@ -269,4 +269,13 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_CrudeWoodTables</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_Pedestals</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_Lamps</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_WallLamps</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>
