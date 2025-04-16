@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!-- Dropdowns  -->
+
+          <operations>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_DarkstoneLamp"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_Lamps</designatorDropdown>
+                  </value>
+              </li>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_GlowstoneLamp"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_Lamps</designatorDropdown>
+                  </value>
+              </li>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_DarkstonePedestal"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_Pedestals</designatorDropdown>
+                  </value>
+              </li>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_GlowstonePedestal"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_Pedestals</designatorDropdown>
+                  </value>
+              </li>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_VE_DarkstoneWallLamp"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_WallLamps</designatorDropdown>
+                  </value>
+              </li>
+              <li Class="PatchOperationReplace">
+                  <success>Always</success>
+                  <xpath>Defs/ThingDef[defName="RF_VE_GlowstoneWallLamp"]/designatorDropdown</xpath>
+                  <value>
+                    <designatorDropdown>FernyRF_WallLamps</designatorDropdown>
+                  </value>
+              </li>
+          </operations>
+</Defs>
