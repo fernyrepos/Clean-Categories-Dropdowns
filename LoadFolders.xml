@@ -30,5 +30,6 @@
     <li IfModActive="vanillaexpanded.vfeart">Mods and Shit/VFE Art</li>
     <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
     <li IfModActive="Ludeon.Rimworld.Ideology">Mods and Shit/Ideology</li>
+    <li IfModActive="sierra.rf.medievaloverhaul">Mods and Shit/Rimfantasy</li>
   </v1.5>
 </loadFolders>
