@@ -36,7 +36,7 @@
         <value>
             <designatorDropdown>FernyRF_Glowstone</designatorDropdown>
         </value>
-    </Operation>   
+    </Operation> 
     
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="RF_SunstonePedestal"]</xpath>
