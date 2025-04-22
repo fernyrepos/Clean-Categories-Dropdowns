@@ -269,4 +269,13 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_CrudeWoodTables</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_Darkstone</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_Glowstone</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>FernyRF_Sunstone</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>
