@@ -270,12 +270,12 @@
         <defName>Ferny_CrudeWoodTables</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
-        <defName>FernyRF_Pedestals</defName>
+        <defName>FernyRF_Darkstone</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
-        <defName>FernyRF_Lamps</defName>
+        <defName>FernyRF_Glowstone</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
-        <defName>FernyRF_WallLamps</defName>
+        <defName>FernyRF_Sunstone</defName>
     </DesignatorDropdownGroupDef>
 </Defs>
