@@ -153,7 +153,10 @@
         <defName>Ferny_ConveyorBelts</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
-        <defName>Ferny_SepulchralRequiaries</defName>
+        <defName>Ferny_SepulchralReliquaries</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_CryptStatues</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Beds</defName>
@@ -199,9 +202,6 @@
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Tables</defName>
-    </DesignatorDropdownGroupDef>
-    <DesignatorDropdownGroupDef>
-        <defName>Ferny_Pyres</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Pyres</defName>
