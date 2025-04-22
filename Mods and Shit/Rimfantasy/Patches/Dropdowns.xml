@@ -1,41 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<Patch>
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="RF_DarkstoneLamp"]</xpath>
         <value>
-            <designatorDropdown>FernyRF_Lamps</designatorDropdown>
+            <designatorDropdown>FernyRF_Darkstone</designatorDropdown>
         </value>
     </Operation>
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/ThingDef[defName="RF_GlowstoneLamp"]</xpath>
-        <value>
-            <designatorDropdown>FernyRF_Lamps</designatorDropdown>
-        </value>
-    </Operation>
-    
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="RF_DarkstonePedestal"]</xpath>
         <value>
-            <designatorDropdown>FernyRF_Pedestals</designatorDropdown>
+            <designatorDropdown>FernyRF_Darkstone</designatorDropdown>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="RF_VE_DarkstoneWallLamp"]</xpath>
+        <value>
+            <designatorDropdown>FernyRF_Darkstone</designatorDropdown>
+        </value>
+    </Operation> 
+    
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="RF_GlowstoneLamp"]</xpath>
+        <value>
+            <designatorDropdown>FernyRF_Glowstone</designatorDropdown>
         </value>
     </Operation>
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="RF_GlowstonePedestal"]</xpath>
         <value>
-            <designatorDropdown>FernyRF_Pedestals</designatorDropdown>
+            <designatorDropdown>FernyRF_Glowstone</designatorDropdown>
         </value>
     </Operation>
-    
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/ThingDef[defName="RF_VE_DarkstoneWallLamp"]</xpath>
-        <value>
-            <designatorDropdown>FernyRF_WallLamps</designatorDropdown>
-        </value>
-    </Operation>    
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/ThingDef[defName="RF_VE_GlowstoneWallLamp"]</xpath>
         <value>
-            <designatorDropdown>FernyRF_WallLamps</designatorDropdown>
+            <designatorDropdown>FernyRF_Glowstone</designatorDropdown>
+        </value>
+    </Operation>   
+    
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="RF_SunstonePedestal"]</xpath>
+        <value>
+            <designatorDropdown>FernyRF_Sunstone</designatorDropdown>
         </value>
     </Operation>
-</Defs>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="RF_VE_SunstoneWallLamp"]</xpath>
+        <value>
+            <designatorDropdown>FernyRF_Sunstone</designatorDropdown>
+        </value>
+    </Operation>
+</Patch>
