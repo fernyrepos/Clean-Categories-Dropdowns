@@ -269,4 +269,10 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_CrudeWoodTables</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_ChiseledBeds</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_SimpleBeds</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>
