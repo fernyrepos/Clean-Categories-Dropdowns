@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch>   
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="Bed_Ergonomic"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_ErgonomicBeds</designatorDropdown>
-                    </value>
-                </Operation>    
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="Bed_DoubleErgonomic"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_ErgonomicBeds</designatorDropdown>
-                    </value>
-                </Operation>    
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Bed_Ergonomic"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_ErgonomicBeds</designatorDropdown>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Bed_DoubleErgonomic"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_ErgonomicBeds</designatorDropdown>
+        </value>
+    </Operation>
 
 
-<!-- Ve furniture 2.0 -->
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[@Name="VFE_ChiseledBedBase"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_ChiseledBeds</designatorDropdown>
-                    </value>
-                </Operation>     
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[@Name="VFE_SimpleBedBase"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_SimpleBeds</designatorDropdown>
-                    </value>
-                </Operation>     
-<!-- 
+    <!-- Ve furniture 2.0 -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Bed_StoneSlab"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_ChiseledBeds</designatorDropdown>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="VFE_Bed_StoneSlabDouble"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_ChiseledBeds</designatorDropdown>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Bed_Simple"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_SimpleBeds</designatorDropdown>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="VFE_Bed_SimpleDouble"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_SimpleBeds</designatorDropdown>
+        </value>
+    </Operation>
+    <!-- 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="Table_1x1c"]</xpath>
                     <value>

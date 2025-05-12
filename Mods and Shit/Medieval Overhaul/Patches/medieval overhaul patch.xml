@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Patch>   
-
-                <!-- <Operation Class="PatchOperationAdd">
+<?xml version='1.0' encoding='UTF-8'?>
+<Patch>
+	<!-- <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="Column"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_Columns</designatorDropdown>
@@ -19,10 +18,7 @@
                         <designatorDropdown>Ferny_Columns</designatorDropdown>
                     </value>
                 </Operation>     -->
-
-
-
-<!-- 
+	<!-- 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_DryingRack_Big"]</xpath>
                     <value>
@@ -35,30 +31,19 @@
                         <designatorDropdown>Ferny_MeatDryingRacks</designatorDropdown>
                     </value>
                 </Operation> -->
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_SlabDoor"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_SlabDoors</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_SlabDoor1x2c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_SlabDoors</designatorDropdown>
-                    </value>
-                </Operation>    
-
-
-
-
-
-
-
-
-                <!-- <Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_SlabDoor"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_SlabDoors</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_SlabDoor1x2c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_SlabDoors</designatorDropdown>
+		</value>
+	</Operation>
+	<!-- <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_CastleWall"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_Walls</designatorDropdown>
@@ -70,38 +55,31 @@
                         <designatorDropdown>Ferny_Walls</designatorDropdown>
                     </value>
                 </Operation> -->
-
-
-
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_LogGate"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Gates</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_ReinfocedLogGate"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Gates</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Gate"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Gates</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-                <!-- <Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_LogGate"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogGates</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_ReinfocedLogGate"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogGates</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Gate"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_Gates</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Gate1x2c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_Gates</designatorDropdown>
+		</value>
+	</Operation>
+	<!-- <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_RusticDoor1x2c"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_DoubleDoors</designatorDropdown>
@@ -113,207 +91,169 @@
                         <designatorDropdown>Ferny_DoubleDoors</designatorDropdown>
                     </value>
                 </Operation> -->
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_LogBench1x2c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_LogBenches</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_LogBench1x3c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_LogBenches</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_LogBench1x4c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_LogBenches</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_1c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_2c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_3c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_4c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_5c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_6c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_MarketTent_7c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_MarketTents</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_GardeningBox"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_PlanterBoxes</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_RusticLamp"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_OilLamps</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_WallLamp"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_OilLamps</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_BedLog"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_LogBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_BedLogDouble"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_LogBeds</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_BedWicker"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_WickerBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_BedWickerDouble"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_WickerBeds</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_StrawBed"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_StrawBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_StrawBedDouble"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_StrawBeds</designatorDropdown>
-                    </value>
-                </Operation>
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Red"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Green"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Blue"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Red"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Green"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Blue"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RusticBeds</designatorDropdown>
-                    </value>
-                </Operation>
-
-
-
-
-<!-- 
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_LogBench1x2c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogBenches</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_LogBench1x3c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogBenches</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_LogBench1x4c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogBenches</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_1c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_2c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_3c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_4c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_5c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_6c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_MarketTent_7c"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_MarketTents</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_GardeningBox"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_PlanterBoxes</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_RusticLamp"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_OilLamps</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_WallLamp"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_OilLamps</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_BedLog"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_BedLogDouble"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_LogBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_BedWicker"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_WickerBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_BedWickerDouble"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_WickerBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_StrawBed"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_StrawBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_StrawBedDouble"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_StrawBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Red"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Green"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_Rustic_Blue"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Red"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Green"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Bed_RusticDouble_Blue"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_RusticBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="DankPyon_BedFur"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_FurBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="DankPyon_BedFurDouble"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_FurBeds</designatorDropdown>
+		</value>
+	</Operation>
+	<!-- 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_LogTable1x2c"]</xpath>
                     <value>
@@ -338,8 +278,7 @@
                         <designatorDropdown>Ferny_LogTables</designatorDropdown>
                     </value>
                 </Operation> -->
-
-<!-- 
+	<!-- 
 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_RoyalTable2x2c"]</xpath>
@@ -354,26 +293,19 @@
                     </value>
                 </Operation>    
  -->
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Pyre"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Pyres</designatorDropdown>
-                    </value>
-                </Operation>    
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_PyreRound"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Pyres</designatorDropdown>
-                    </value>
-                </Operation>    
-
-
-
-<!-- 
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_Pyre"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_Pyres</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_PyreRound"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_Pyres</designatorDropdown>
+		</value>
+	</Operation>
+	<!-- 
 
 
                 <Operation Class="PatchOperationAdd">
@@ -394,8 +326,7 @@
                         <designatorDropdown>Ferny_Crates</designatorDropdown>
                     </value>
                 </Operation>     -->
-
-<!-- 
+	<!-- 
 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_WoodLogs1x1c"]</xpath>
@@ -485,57 +416,46 @@
                         <designatorDropdown>Ferny_BundledSacks</designatorDropdown>
                     </value>
                 </Operation>     -->
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_TentWall"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_ClothWalls</designatorDropdown>
-                    </value>
-                </Operation>    
-
-
-                <!-- <Operation Class="PatchOperationAdd">
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_TentWall"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_ClothWalls</designatorDropdown>
+		</value>
+	</Operation>
+	<!-- <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DankPyon_LogChair"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_Chairs</designatorDropdown>
                     </value>
                 </Operation> -->
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="DankPyon_LampPost"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Lampposts</designatorDropdown>
-                    </value>
-                </Operation>
-
-                <Operation Class="PatchOperationReplace">
-                    <xpath>Defs/ThingDef[defName="DankPyon_Crate1x1c"]/label</xpath>
-                    <value>
-                        <label>crate (1x1)</label>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationReplace">
-                    <xpath>Defs/ThingDef[defName="DankPyon_BundledSack1x1c"]/label</xpath>
-                    <value>
-                        <label>bundled sack (1x1)</label>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationReplace">
-                    <xpath>Defs/ThingDef[defName="DankPyon_WoodLogs1x1c"]/label</xpath>
-                    <value>
-                        <label>raw wood pile (1x1)</label>
-                    </value>
-                </Operation>
-
-
-
-
-
-
-                <Operation Class="PatchOperationReplace">
-                    <xpath>Defs/ThingDef[defName="DankPyon_SlabDoor"]/label</xpath>
-                    <value>
-                        <label>slab door (1x1)</label>
-                    </value>
-                </Operation>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="DankPyon_LampPost"]</xpath>
+		<value>
+			<designatorDropdown>Ferny_Lampposts</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="DankPyon_Crate1x1c"]/label</xpath>
+		<value>
+			<label>crate (1x1)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="DankPyon_BundledSack1x1c"]/label</xpath>
+		<value>
+			<label>bundled sack (1x1)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="DankPyon_WoodLogs1x1c"]/label</xpath>
+		<value>
+			<label>raw wood pile (1x1)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="DankPyon_SlabDoor"]/label</xpath>
+		<value>
+			<label>slab door (1x1)</label>
+		</value>
+	</Operation>
 </Patch>
