@@ -27,6 +27,13 @@
                         <designatorDropdown>Ferny_SimpleBeds</designatorDropdown>
                     </value>
                 </Operation>     
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="VFE_LongPlantPot"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_PlantDecorations</designatorDropdown>
+                    </value>
+                </Operation>
 <!-- 
                 <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="Table_1x1c"]</xpath>

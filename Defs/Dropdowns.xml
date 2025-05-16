@@ -275,4 +275,7 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_SimpleBeds</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_PlantDecorations</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>
