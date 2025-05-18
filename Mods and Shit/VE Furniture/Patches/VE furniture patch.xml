@@ -39,22 +39,11 @@
             <designatorDropdown>Ferny_SimpleBeds</designatorDropdown>
         </value>
     </Operation>
-    <!-- 
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="Table_1x1c"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_Tables</designatorDropdown>
-                    </value>
-                </Operation>    
-
-
-
-
-                <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[@Name="RoyalTableDesc"]</xpath>
-                    <value>
-                        <designatorDropdown>Ferny_RoyalTables</designatorDropdown>
-                    </value>
-                </Operation>     -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="VFE_LongPlantPot"]</xpath>
+        <value>
+            <designatorDropdown>Ferny_PlantDecorations</designatorDropdown>
+        </value>
+    </Operation>
 
 </Patch>
