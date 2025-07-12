@@ -30,5 +30,6 @@
     <li IfModActive="vanillaexpanded.vfeart">Mods and Shit/VFE Art</li>
     <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
     <li IfModActive="Ludeon.Rimworld.Ideology">Mods and Shit/Ideology</li>
+    <li IfModActive="sbz.cryogenictank">Mods and Shit/Cryogenic Tanks</li>
   </v1.5>
 </loadFolders>

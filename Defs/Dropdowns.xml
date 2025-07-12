@@ -278,4 +278,7 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_PlantDecorations</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_CryogenicTanks</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>
