@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="XER_WallTubeTelevision"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_TubeTelevisions</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="XER_WallFlatscreenTelevision"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FlatscreenTelevisions</designatorDropdown>
+                    </value>
+                </Operation>
+</Patch>

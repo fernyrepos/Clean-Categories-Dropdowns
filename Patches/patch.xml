@@ -88,17 +88,17 @@
 
 
                 <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="SleepingSpot"]</xpath>
+                    <xpath>Defs/ThingDef[@Name="SleepingSpotBase"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_SleepingSpots</designatorDropdown>
                     </value>
                 </Operation>
-                <Operation Class="PatchOperationAdd">
+                <!-- <Operation Class="PatchOperationAdd">
                     <xpath>Defs/ThingDef[defName="DoubleSleepingSpot"]</xpath>
                     <value>
                         <designatorDropdown>Ferny_SleepingSpots</designatorDropdown>
                     </value>
-                </Operation>
+                </Operation> -->
 
 
 
@@ -207,15 +207,34 @@
 
 
 
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="RoyalBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_RoyalBeds</designatorDropdown>
+                    </value>
+                </Operation>
 
 
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="OrbitalTradeBeacon"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_OrbitalTradeBeacons</designatorDropdown>
+                    </value>
+                </Operation>
 
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="TubeTelevision"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_TubeTelevisions</designatorDropdown>
+                    </value>
+                </Operation>
 
-
-
-
-
-
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="FlatscreenTelevision"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_FlatscreenTelevisions</designatorDropdown>
+                    </value>
+                </Operation>
 
 
                 <Operation Class="PatchOperationReplace">

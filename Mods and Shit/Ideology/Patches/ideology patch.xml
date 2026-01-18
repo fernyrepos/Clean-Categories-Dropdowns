@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>   
 
-                <!-- <Operation Class="PatchOperationAdd">
-                    <xpath>Defs/ThingDef[defName="PlantPot_Bonsai"]</xpath>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="SlabBed"]</xpath>
                     <value>
-                        <designatorDropdown>Ferny_PlantPots</designatorDropdown>
+                        <designatorDropdown>Ferny_SlabBeds</designatorDropdown>
                     </value>
-                </Operation> -->
-
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="SlabDoubleBed"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_SlabBeds</designatorDropdown>
+                    </value>
+                </Operation>
 </Patch>

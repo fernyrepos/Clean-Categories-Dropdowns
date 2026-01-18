@@ -186,6 +186,9 @@
         <defName>Ferny_RusticBeds</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
+        <defName>Ferny_SlabBeds</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
         <defName>Ferny_ACCompressors</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
@@ -280,5 +283,17 @@
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_CryogenicTanks</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_RoyalBeds</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_OrbitalTradeBeacons</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_TubeTelevisions</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_FlatscreenTelevisions</defName>
     </DesignatorDropdownGroupDef>
 </Defs>

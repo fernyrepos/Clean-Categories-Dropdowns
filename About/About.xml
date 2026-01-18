@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Clean Categories: Dropdowns</name>
+	<name>Basic Dropdowns</name>
 	<author>ferny</author>
 	<packageId>ferny.categoriesdropdowns</packageId>
 	<supportedVersions>
@@ -50,5 +50,8 @@
 		<li>adaptive.primitivestorage</li>
 		<li>vanillaexpanded.vfeart</li>
 		<li>sbz.cryogenictank</li>
+		<li>meltup.polyamorybeds.vanilla</li>
+		<li>vanillaexpanded.gravship</li>
+		<li>xercaine.walltelevisions</li>
 	</loadAfter>
 </ModMetaData>

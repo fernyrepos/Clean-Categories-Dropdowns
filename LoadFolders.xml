@@ -31,5 +31,8 @@
     <li IfModActive="Ludeon.Rimworld.Royalty">Mods and Shit/Royalty</li>
     <li IfModActive="Ludeon.Rimworld.Ideology">Mods and Shit/Ideology</li>
     <li IfModActive="sbz.cryogenictank">Mods and Shit/Cryogenic Tanks</li>
+    <li IfModActive="meltup.polyamorybeds.vanilla">Mods and Shit/Polyamory Beds</li>
+    <li IfModActive="vanillaexpanded.gravship">Mods and Shit/VE Gravship</li>
+    <li IfModActive="xercaine.walltelevisions">Mods and Shit/Wall Televisions</li>
   </v1.5>
 </loadFolders>
