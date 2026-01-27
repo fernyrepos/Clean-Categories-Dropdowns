@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Defs>
-
     <!-- Dropdowns  -->
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Walls</defName>
@@ -52,6 +51,9 @@
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Gates</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_LogGates</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_Hydroponics</defName>
@@ -271,6 +273,12 @@
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_CrudeWoodTables</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_ChiseledBeds</defName>
+    </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_SimpleBeds</defName>
     </DesignatorDropdownGroupDef>
     <DesignatorDropdownGroupDef>
         <defName>Ferny_ChiseledBeds</defName>
