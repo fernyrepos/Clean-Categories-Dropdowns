@@ -296,4 +296,7 @@
     <DesignatorDropdownGroupDef>
         <defName>Ferny_FlatscreenTelevisions</defName>
     </DesignatorDropdownGroupDef>
+    <DesignatorDropdownGroupDef>
+        <defName>Ferny_Thermometers</defName>
+    </DesignatorDropdownGroupDef>
 </Defs>

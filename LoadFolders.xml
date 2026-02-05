@@ -34,5 +34,6 @@
     <li IfModActive="meltup.polyamorybeds.vanilla">Mods and Shit/Polyamory Beds</li>
     <li IfModActive="vanillaexpanded.gravship">Mods and Shit/VE Gravship</li>
     <li IfModActive="xercaine.walltelevisions">Mods and Shit/Wall Televisions</li>
+    <li IfModActive="mlie.temperaturegauge">Mods and Shit/Temperature Gauge</li>
   </v1.5>
 </loadFolders>

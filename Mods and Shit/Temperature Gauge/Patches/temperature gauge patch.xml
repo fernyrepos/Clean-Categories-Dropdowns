@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>          
+<Patch>       
+
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="TemperatureGauge"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Thermometers</designatorDropdown>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <xpath>Defs/ThingDef[defName="TemperatureGaugeWall"]</xpath>
+                    <value>
+                        <designatorDropdown>Ferny_Thermometers</designatorDropdown>
+                    </value>
+                </Operation>
+
+</Patch>
